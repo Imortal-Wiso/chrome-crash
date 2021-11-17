@@ -25,7 +25,7 @@
       <br> <br>
       <span style="font-size:29px;">Chrome-Crash-Invoke</span>
       <br>
-      <span>That Website That Crashes Your Browser.</span>
+      <span>The Browser That Destroys <span style="color:purple;">Memory</span></span>
       <br> <br>
       <div style="margin-down:13rem;">
          <img src="data/718smiley.png" width="200rem" height="200rem">
@@ -34,12 +34,30 @@
     </center>
     
     <!-- The Fun Stuff :) -->
-    <script>
+    <script> /*
      while(1) {
+       
+          // Sleep Function. Lets Us Use Pythons SLEEP(milliseconds) function
+          function sleep(milliseconds) {
+            const date = Date.now();
+            let currentDate = null;
+            do {
+              currentDate = Date.now();
+            } while (currentDate - date < milliseconds);
+          }
+       
+          // Set's A Horrible Statistical Amount Of MEMERY Usage.
           window.open("https://chrome-crash-invoke.github.io/chrome-crash/");
-          document.write("<center><span style='font-size:12px; color:#8f0916;'>Loaded A Senquential Componet</span></center> <br> ");
+          sleep(1000)
+          window.open("https://chrome-crash-invoke.github.io/chrome-crash/");
+          sleep(2000)
+          window.open("https://chrome-crash-invoke.github.io/chrome-crash/");
+          sleep(3000)
+          window.open("https://chrome-crash-invoke.github.io/chrome-crash/");
+          sleep(4000)
+          window.open("https://chrome-crash-invoke.github.io/chrome-crash/");
           break;  
       } 
-    </script>
+    */</script>
   </body>
 </html>
