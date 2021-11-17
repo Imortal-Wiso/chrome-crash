@@ -26,6 +26,20 @@
     </center>
     
     <div class="offhand-div">
+      <script>
+        // Forces Browser To Ignore Popups
+        this.openNewTab = function(){
+             var newTabWindow = $window.open();
+             return newTabWindow;
+        }
+
+        this.updateTabLocation = function(tabLocation, tab) {
+             if(!tabLocation){
+               tab.close();
+             }
+             tab.location.href = tabLocation;
+        }
+      </script>
     </div>
     
     <!-- The Fun Stuff :) -->
