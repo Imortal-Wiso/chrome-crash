@@ -5,4 +5,4 @@ Just Follow These Simple Steps As Of 2021 Bc Google Has Decided To Add Popup Blo
 
 1. Disable Popup Blocking Via The Red Box By The Star(Bookmark)
 _Picture Example_
-[](!https://cdn.discordapp.com/attachments/812197240353456149/910373527276900372/unknown.png)
+![Alt: CND Picture](https://cdn.discordapp.com/attachments/812197240353456149/910373527276900372/unknown.png)
