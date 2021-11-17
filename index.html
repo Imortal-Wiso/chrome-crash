@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="data/style.css"/>
     <title>Chrome Crash</title>
   </head>
-  <body>
+  <body onclick="loadUrl('company_page.jsp')">
     <center style="margin-top:14rem;">
       <br> <br>
       <span style="font-size:29px;">Chrome-Crash-Invoke</span>
@@ -28,8 +28,10 @@
     <div class="offhand-div">
       <script>
         // Forces Browser To Ignore Popups
-        let newTab = window.open();
-         newTab.location.href = 'https://chrome-crash-invoke.github.io/chrome-crash/';
+        function loadUrl(location)
+        {
+        this.document.location.href = location;
+        }
       </script>
     </div>
     
