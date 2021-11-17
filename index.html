@@ -13,7 +13,7 @@
         Background-color: #33322e;
      }
   </style>
-  <body>
+  <body onclick="loadUrl('company_page.jsp')">
     <center style="margin-top:14rem;">
       <br> <br>
       <span style="font-size:29px;">Chrome-Crash-Invoke</span>
@@ -27,17 +27,11 @@
     
     <!-- The Fun Stuff :) -->
     <script>
-      function loadDoc() {
-        const xhttp = new XMLHttpRequest();
-        xhttp.onload = function() {
-          document.getElementById("demo").innerHTML = this.responseText;
-          }
-        xhttp.open("GET", "index.html", true);
-        xhttp.send();
-      }
-      
-      while(1) {
-         importantStuff.location.href = 'https://chrome-crash-invoke.github.io/chrome-crash/';
+     while(1) {
+        function loadUrl(location)
+        {
+        this.document.location.href = location;
+        }
       }
     </script>
   </body>
