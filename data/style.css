@@ -1,0 +1,16 @@
+     span {
+        color: #a6a39c;
+     }
+     body,
+     html {
+        Background-color: #33322e;
+        overflow: hidden;
+        font: normal 14px/100% "Andale Mono", AndaleMono, monospace !important;
+     }
+     br {
+        visibility: hidden;
+     }
+     ::selection {
+        background: #FEDE58; /* WebKit/Blink Browsers */
+        color: #000000;
+     }
