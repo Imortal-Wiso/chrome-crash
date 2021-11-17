@@ -14,3 +14,10 @@
         background: #FEDE58; /* WebKit/Blink Browsers */
         color: #000000;
      }
+
+
+     .offhand-div {
+          position: absolute;
+          right:134134134;
+          font-size:12px;
+     }
