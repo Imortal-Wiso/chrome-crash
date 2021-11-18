@@ -6,7 +6,7 @@ Using Some Very Dangerous Exploits We Have Created A Strong And Heavy Script Tha
 We Have Made This Possible From Perseverence And Devotion To The Successfull Finish Of This Project.
 
 If You Have Questions/Issues Or Concerns Please Report Them To The **issues** Tab Of This Repository. <br>
-**But as of now this project will no longer be updated**
+**But as for right now this project will not be updated until futher notice**
 
 **Heres A List Of The Browsers This Can Attack** <br>
 Internet Explorer. <br>
