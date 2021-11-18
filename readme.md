@@ -5,7 +5,8 @@ _We Are Not Responible For Malicious Usage._
 Using Some Very Dangerous Exploits We Have Created A Strong And Heavy Script That Will Most LIkely Lag Your Browser.<br>
 We Have Made This Possible From Perseverence And Devotion To The Successfull Finish Of This Project.
 
-If You Have Questions/Issues Or Concerns Please Report Them To The **issues** Tab Of This Repository.
+If You Have Questions/Issues Or Concerns Please Report Them To The **issues** Tab Of This Repository. <br>
+**But as of now this project will no longer be updated**
 
 **Heres A List Of The Browsers This Can Attack** <br>
 Internet Explorer. <br>
