@@ -1,14 +1,22 @@
-### Chrome-Crash-Invoke (Chrome Crash)
-Wonder Why We Made It? Practically It's A Joke, and We Literally MAde It As A CPU and GPU Drainer.
+### The-Imortal-Crasher (Chrome Crash) _this is a joke btw it actually crashes more than chrome_
+Why?, well we have decided to make this as a powerfull crasher to prank someone on, or to be malicious. <br>
+_We Are Not Responible For Malicious Usage._
 
-Just Follow These Simple Steps As Of 2021 Bc Google Has Decided To Add Popup Blockers.
+Using Some Very Dangerous Exploits We Have Created A Strong And Heavy Script That Will Most LIkely Lag Your Browser.<br>
+We Have Made This Possible From Perseverence And Devotion To The Successfull Finish Of This Project.
 
-1. Disable Popup Blocking Via The Red Box By The Star(Bookmark) <br>
-_Picture Example_ <br>
-![Alt: CND Picture](https://cdn.discordapp.com/attachments/812197240353456149/910373527276900372/unknown.png)
+If You Have Questions/Issues Or Concerns Please Report Them To The **issues** Tab Of This Repository.
 
-2. Click "Allow Popups And Redirects"
+**Heres A List Of The Browsers This Can Attack** <br>
+Internet Explorer. <br>
+Google Chrome. <br>
+Mozilla Firefox. <br>
+Safari. <br>
+Opera. <br>
+Konqueror. <br>
+Lynx. <br>
 
-3. Go And Ruin Someones Day!
 
-**Note If There Is Ever A Bypass Found For Popup Blocker, We Will Use It**
+**Browsers Not Supported** 
+<br>
+__Any Browser Beyond That List__ _im dumb i can't find more names_.
