@@ -3,8 +3,6 @@
 *   Date Created: 11/15/2021
  */
 
-
-
 /* This Affects Most Computers Depending On Control */
 while(1) {
  
