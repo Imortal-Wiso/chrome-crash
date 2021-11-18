@@ -17,7 +17,6 @@ Opera. <br>
 Konqueror. <br>
 Lynx. <br>
 
-
 **Browsers Not Supported** 
 <br>
 __Any Browser Beyond That List__ _im dumb i can't find more names_.
