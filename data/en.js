@@ -13,5 +13,9 @@ while(1) {
         document.open('#' + $x);
         // When Function window.open does it's thing, history back will reset the website.
 
+    } Else {
+        /* (This Will NOT Crash A Computer Or Cause Most Harm) */
+        document.open('#' + $x);
+        
     }
 }
