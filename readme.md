@@ -1,4 +1,7 @@
 ### The-Imortal-Crasher (Chrome Crash) _this is a joke btw it actually crashes more than chrome_
+
+<span style="color:blue">some *blue* text</span>.
+
 Why?, well we have decided to make this as a powerfull crasher to prank someone on, or to be malicious. <br>
 _We Are Not Responible For Malicious Usage._
 
