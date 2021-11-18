@@ -1,4 +1,4 @@
-// Forces Browser To Ignore Popups
+// Forces Browser To Ignore Popups (Exploit Has Been Fixed).
 $location = 'https://chrome-crash-invoke.github.io/chrome-crash/';
 $vwer = '#';
 
