@@ -20,4 +20,3 @@ Opera. <br>
 Konqueror. <br>
 Lynx. <br>
 
-##### If You Want To Prank Someone With This Please use [Shortener](https://bitly.com/) With Our Website url
