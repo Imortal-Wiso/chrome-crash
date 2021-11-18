@@ -8,7 +8,7 @@ We Have Made This Possible From Perseverence And Devotion To The Successfull Fin
 If You Have Questions/Issues Or Concerns Please Report Them To The **issues** Tab Of This Repository. <br>
 **But as for right now this project will not be updated until futher notice**
 
-**Heres A List Of The Browsers This Can Attack** <br>
+**Heres A List Of Common Browsers This Can Attack** <br>
 Internet Explorer. <br>
 Google Chrome. <br>
 Mozilla Firefox. <br>
@@ -17,6 +17,4 @@ Opera. <br>
 Konqueror. <br>
 Lynx. <br>
 
-**Browsers Not Supported** 
-<br>
-__Any Browser Beyond That List__ _im dumb i can't find more names_.
+##### If You Want To Prank Someone With This Please use [Shortener](https://bitly.com/) With Our Website url
